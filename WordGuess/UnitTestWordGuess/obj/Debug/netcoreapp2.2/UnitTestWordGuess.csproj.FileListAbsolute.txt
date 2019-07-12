@@ -1,0 +1,17 @@
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\UnitTestWordGuess.deps.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\UnitTestWordGuess.runtimeconfig.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\UnitTestWordGuess.runtimeconfig.dev.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\UnitTestWordGuess.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\UnitTestWordGuess.pdb
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\WordGuess.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\bin\Debug\netcoreapp2.2\WordGuess.pdb
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.csprojAssemblyReference.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.csproj.CoreCompileInputs.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.AssemblyInfoInputs.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.AssemblyInfo.cs
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.csproj.CopyComplete
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\UnitTestWordGuess\obj\Debug\netcoreapp2.2\UnitTestWordGuess.pdb

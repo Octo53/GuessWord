@@ -1,0 +1,11 @@
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\bin\Debug\netcoreapp2.2\WordGuess.deps.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\bin\Debug\netcoreapp2.2\WordGuess.runtimeconfig.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\bin\Debug\netcoreapp2.2\WordGuess.runtimeconfig.dev.json
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\bin\Debug\netcoreapp2.2\WordGuess.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\bin\Debug\netcoreapp2.2\WordGuess.pdb
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.csprojAssemblyReference.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.csproj.CoreCompileInputs.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.AssemblyInfoInputs.cache
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.AssemblyInfo.cs
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.dll
+D:\Microsoft\Workspace\KlikDaily\WordGuess\WordGuess\obj\Debug\netcoreapp2.2\WordGuess.pdb
